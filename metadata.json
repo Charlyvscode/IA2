@@ -1,0 +1,6 @@
+{
+  "name": "BonusX",
+  "description": "Plateforme web moderne de récompenses crypto - Thème sombre premium, design fintech, bleu néon, cartes glassmorphism",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
